@@ -1,34 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=iFelzz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Apps%20%7C%20Automation%20%7C%20Computer%20Vision&descAlignY=60&descSize=18" width="100%" />
+  <!-- Dynamic Gradient Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=iFelzz&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%E2%80%A2%20WebApps%20Builder%20%E2%80%A2%20Automation%20Scripter&descAlignY=58&descSize=18" width="100%" />
+
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+fast+%26+scalable+Web+Applications+%F0%9F%9A%80;Automating+repetitive+stuff+with+custom+scripts+%E2%9A%A1;Turning+ideas+into+deployed+micro-apps+%F0%9F%92%BB;Always+shipping+new+projects..." alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Profile Badges -->
+  <img src="https://komarev.com/ghpvc/?username=iFelzz&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/iFelzz?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/iFelzz?affiliations=OWNER&style=for-the-badge&color=8b5cf6" alt="Total Stars" />
 </div>
-
-### 👋 Yo, I'm iFelz!
-
-I'm a developer focused on building practical web applications, automation tools, and exploring computer vision systems. 
-
-- 🔭 **Currently working on:** 
-  - **ALPR System** — Automated License Plate Recognition & vehicle counting system.
-  - **StockEZ** — Micro-app utility portal for digital asset and stock contributors.
-  - **Affiliate Helper** — Automation workflow tools for social commerce.
-- ⚡ **Focus areas:** Full-Stack Web Development, AI-Assisted Workflows, Python Scripting.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ⚡ About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nextjs,tailwind,nodejs,git,github,vercel&perline=6" alt="Tech Stack" />
-</p>
+Yo! I'm **iFelz**, a developer focused on crafting modern **Web Applications**, **Micro-SaaS / Utility Portals**, and **Automation Scripts** that solve real-world problems and streamline workflows.
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=iFelzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iFelzz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=iFelzz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+```typescript
+const iFelz = {
+  pronouns: "he/him",
+  focus: ["Full-Stack Web Apps", "Workflow Automation", "Custom Scripting"],
+  webStack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Node.js"],
+  scripting: ["Python", "JavaScript", "Browser Automation", "REST APIs"],
+  deployment: ["Vercel", "GitHub Pages", "Cloudflare"],
+  motto: "#MoreDarkerThanEver"
+};
