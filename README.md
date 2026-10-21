@@ -11,7 +11,7 @@
 
 ---
 
-### ⚡ About Me
+###  About Me
 
 Yo! I'm **iFelz**, a developer focused on crafting modern **Web Applications**, **Micro-SaaS / Utility Portals**, and **Automation Scripts** that solve real-world problems and streamline workflows.
 
@@ -21,17 +21,16 @@ Yo! I'm **iFelz**, a developer focused on crafting modern **Web Applications**, 
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+###  Tech Stack & Arsenal
 
-**Frontend & Web Apps**
-![Web Dev Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,vercel)
-
-**Backend, Scripting & Tools**
-![Scripting and Tools](https://skillicons.dev/icons?i=nodejs,py,bash,supabase,firebase,git,github,vscode,linux)
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend & Web Apps** | ![Web Dev Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,vercel) |
+| **Backend & Scripting** | ![Scripting and Tools](https://skillicons.dev/icons?i=nodejs,py,bash,supabase,firebase,git,github,vscode,linux) |
 
 ---
 
-### 📊 GitHub Stats & Analytics
+###  GitHub Stats & Analytics
 
 <div align="center">
 
